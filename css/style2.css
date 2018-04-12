@@ -267,7 +267,7 @@ button:hover {
     margin: auto;
     z-index: 10;
     top: 0;
-    background: #96696942;
+    background: black;
 }
 
 .off-light {
